@@ -1,0 +1,23 @@
+{
+  "name": "demo_learning_node-canvas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcpre/demo_learning_node-canvas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcpre/demo_learning_node-canvas/issues"
+  },
+  "homepage": "https://github.com/marcpre/demo_learning_node-canvas#readme",
+  "dependencies": {
+    "canvas": "^2.9.3"
+  }
+}
